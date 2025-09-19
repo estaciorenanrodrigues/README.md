@@ -6,7 +6,7 @@
 - Graduação em Analise e desenvolvimento de Sistemas
 - Pos Engenharia de software
 - Pos Desenvolvimento de Sistemas
-- Gestão em tecnologias
+- Pos Gestão em tecnologias
 
 ## 🤖 Tecnologias & Habilidades
 

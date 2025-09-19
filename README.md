@@ -3,26 +3,30 @@
 ## �� Tecnologias & Habilidades
 
 **Linguagens:**
-- JavaScript (ES6+)
+- JavaScript
 - TypeScript
+- Go
+- PHP
 
 **Frameworks & Bibliotecas:**
-- ReactJS ⚛️
-- NextJS ��
-- VueJS 💚
-- Angular 🔥
+- ReactJS
+- NextJS
+- VueJS 
+- Angular 
+- Nest
+- ExpressJS
+- Gin
+- Laravel
 
 ## �� Especialização
 
-Desenvolvedor Front-end apaixonado por criar interfaces modernas e responsivas. Especializado em JavaScript e TypeScript, com experiência sólida em ReactJS e frameworks modernos como NextJS, VueJS e Angular.
+Desenvolvedor namorando com Backend usando Node, Go, PHP e Front-end apaixonado por criar interfaces modernas e responsivas. Especializado em JavaScript e TypeScript, com experiência sólida em frameworks e biblioteca modernos como React, VueJS e Angular, .
 
 ## 🛠️ Stack Principal
 
 - **Frontend:** React, Next.js, Vue.js, Angular
-- **Linguagens:** JavaScript, TypeScript
-- **Estilização:** CSS3, Sass, Styled Components
-- **Ferramentas:** Git, Webpack, Vite
-- **Testes:** Jest, Testing Library
+- **Linguagens:** JavaScript, TypeScript, Go e PHP
+- **Estilização:** CSS3, Sass, Tailwind.
 
 ## 📈 Foco Atual
 
